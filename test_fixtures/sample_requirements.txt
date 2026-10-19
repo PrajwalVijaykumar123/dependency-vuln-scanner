@@ -1,0 +1,5 @@
+clean-pkg==2.0.0
+bad-pkg==1.0.0
+very-bad-pkg==0.1.0
+flask>=2.0
+git+https://github.com/example/example.git
